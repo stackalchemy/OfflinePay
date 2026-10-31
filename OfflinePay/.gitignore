@@ -1,0 +1,35 @@
+# Java
+*.class
+*.jar
+*.war
+
+# Maven
+backend/target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Android
+.gradle/
+**/build/
+local.properties
+*.apk
+*.aab
+
+# Node
+node_modules/
+dist/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
