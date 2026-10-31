@@ -1,9 +1,0 @@
-# OfflinePay Documentation
-
-This folder contains:
-- Project architecture
-- Database design
-- API documentation
-- Communication protocol
-- Security design
-- Project report
