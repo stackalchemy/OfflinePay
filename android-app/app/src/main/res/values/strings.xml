@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_offline_pay">Offline Pay</string>
+    <string name="send_money">Send Money</string>
+    <string name="offlinepay">OfflinePay</string>
+    <string name="your_offline_payment_companion">Your offline payment companion</string>
+    <string name="receive_money">Receive Money</string>
+    <string name="sendmoney">Send Money</string>
+</resources>
